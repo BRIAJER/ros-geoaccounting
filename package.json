@@ -1,0 +1,25 @@
+{
+  "name": "ros-geoaccounting",
+  "version": "1.0.0",
+  "description": "A tool to see where traffic from your Mikrotik is going",
+  "main": "script.js",
+  "dependencies": {
+    "commander": "^5.1.0",
+    "maxmind": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cutiful/ros-geoaccounting"
+  },
+  "keywords": [
+    "routeros",
+    "mikrotik",
+    "geoip"
+  ],
+  "author": "cutiful",
+  "license": "BSD-2-Clause"
+}
